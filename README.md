@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindo(a) ao meu perfil😄
 
-<!--
-**BDorado08/BDorado08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é 🌠*Isabella Dorado*🌠
+- Sou estudante do [Alura](https://www.alura.com.br)📚
+- Evoluindo minha Linguagem JavaScript💻
+- Irei utilizar este espaço para compartilhamento e organização dos meus projetos📎
 
-Here are some ideas to get you started:
+  ### Caso queira entrar em contato 🤝
+  
+   00001092802174SP@al.educacao.sp.gov.br
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ![](https://media.tenor.com/GNa8VEckPXQAAAAM/minions-despicable-me.gif)
